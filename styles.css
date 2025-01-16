@@ -174,7 +174,7 @@ body {
     .popup {
         position: absolute;
         top: 410px;
-        right: 600px;
+        right: 475px;
         display: flex;
         gap: 20px;
         align-items: center;
